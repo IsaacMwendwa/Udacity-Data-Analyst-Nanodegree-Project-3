@@ -2,10 +2,6 @@
 ## by Isaac Mwendwa
 
 
-# Loan Data from Prosper Dataset Exploration
-## by Isaac Mwendwa
-
-
 ## Dataset
 
 * The Loan Data from Prosper Dataset is a dataset of loans taken between 2005 and 2013 from Prosper
