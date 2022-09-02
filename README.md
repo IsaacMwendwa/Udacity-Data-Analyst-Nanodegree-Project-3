@@ -61,7 +61,7 @@ Loan Year
 
 The unusual distributions I noted include:
 * There is a small irrecognizable difference between distributions of loan takers who are home-owners and those who are not. 
-> * This is contrary to the fact that home-owners are more likely to be given loans as compared to those who are not; as there is more security assured with the lending
+> This is contrary to the fact that home-owners are more likely to be given loans as compared to those who are not; as there is more security assured with the lending
 
 * There is also a great discrepancy between the distributions of Stated Monthly Income and Income Range. 
 * Majority of the borrowers have an Income Range of USD 25k - 50k; while majority of borrowers have a Stated Monthly Income of below USD 20k. 
