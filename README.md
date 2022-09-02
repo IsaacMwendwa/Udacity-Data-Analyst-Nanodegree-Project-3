@@ -15,7 +15,7 @@ The main features of interest (response variables) in the dataset include:
 > * Prosper Score
 > * Debt to Income Ratio 
 
-The variables that will support the investigation of the variables of interest are known as predictor features. The following predictor feautures will be used in the exploration:
+The variables that will support the investigation of the variables of interest are known as predictor features. The following predictor features will be used in the exploration:
 > * Income Range
 > * Employment Status
 > * Stated Monthly Income
