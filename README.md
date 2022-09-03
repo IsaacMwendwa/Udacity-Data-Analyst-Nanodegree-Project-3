@@ -90,13 +90,13 @@ Loan Original Amount vs. Income Range:
 
 ### Findings from Multivariate Exploration
 
-Borrower APR vs. Loan Term and Prosper Rating (numeric)
-* There is an inverse relationship between Borrower APR; and Term and Prosper Rating (numeric). Thus, Borrower APR decreases as the Loan Term and Prosper Rating (numeric) increase
+Borrower APR vs. Loan Term and Proper Score
+* There is an inverse relationship between Borrower APR; and Term and Prosper Score. Thus, Borrower APR decreases as the Loan Term and Prosper Score increase
 
-Loan Original Amount vs. Loan Term and Prosper Rating (numeric)
+Loan Original Amount vs. Loan Term and Prosper Score
 * The Loan Original Amount; and Prosper Rating (numeric) and Term share a positive relationship. Hence, the Loan Original Amount increases as the Prosper Rating (numeric) increases, and also as the Loan Term increases 
 
-Prosper Rating vs. Borrower APR and Loan Original Amount
+Prosper SCore vs. Borrower APR and Loan Original Amount
 * The plots show that the Loan Original Amount increase with an increase in the Prosper Rating (numeric) and a decrease in Borrower APR
 * However, there is an interesting and surprising observation from the three features
 * When the Prosper Rating (numeric) is above 6 (top ratings) and the Loan Original Amount increases; there is an abnormal behaviour of the Borrower APR increasing
