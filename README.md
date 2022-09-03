@@ -96,7 +96,7 @@ Borrower APR vs. Loan Term and Proper Score
 Loan Original Amount vs. Loan Term and Prosper Score
 * The Loan Original Amount; and Prosper Rating (numeric) and Term share a positive relationship. Hence, the Loan Original Amount increases as the Prosper Rating (numeric) increases, and also as the Loan Term increases 
 
-Prosper SCore vs. Borrower APR and Loan Original Amount
+Prosper Score vs. Borrower APR and Loan Original Amount
 * The plots show that the Loan Original Amount increase with an increase in the Prosper Rating (numeric) and a decrease in Borrower APR
 * However, there is an interesting and surprising observation from the three features
 * When the Prosper Rating (numeric) is above 6 (top ratings) and the Loan Original Amount increases; there is an abnormal behaviour of the Borrower APR increasing
@@ -108,4 +108,12 @@ Prosper SCore vs. Borrower APR and Loan Original Amount
 
 > Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
 
-> 
+1. Distribution of Debt-to-Income Ratio
+
+2. Effect of Employment Status on Borrower APR
+
+3. Loan Original Amount vs. Income Range
+
+4. Loan Original Amount vs. Loan Term and Prosper Score
+
+5. Prosper Score vs. Borrower APR and Loan Original Amount
