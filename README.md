@@ -106,9 +106,7 @@ Prosper Score vs. Borrower APR and Loan Original Amount
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
-
-Selected insights for exploration include:
+#### Selected insights for exploration include:
 
 1. Distribution of Debt-to-Income Ratio
 * The distribution is skewed right, implying that the majority of the Debt-to-Income ratios lay between 0 and 0.4
@@ -117,20 +115,20 @@ Selected insights for exploration include:
 * Borrowers who have "Not Employed" and "Other" as their Employment Statuses have the highest Borrower APR's
 
 3. Loan Original Amount vs. Income Range
-* The plot shows that the people with the highest Loan Original Amount are borrowers in the Income Range of USD 100,000+
+* The people with the highest Loan Original Amount are borrowers in the Income Range of USD 100,000+
 * The borrowers with the least Loan Original Amount are in the Income Ranges of "Not employed", "USD 1 - USD 25,000", and "Not Displayed"
 
 4. Loan Original Amount vs. Loan Term and Prosper Score
-* The plot shows that the Loan Original Amount increases as the Prosper Score increases, and also as the Loan Term increases
+* The Loan Original Amount increases as the Prosper Score increases, and also as the Loan Term increases
 
 5. Prosper Score vs. Borrower APR and Loan Original Amount
-* The plots show that the Loan Original Amount increases with an increase in the Prosper Score and a decrease in Borrower APR
+* The Loan Original Amount increases with an increase in the Prosper Score and a decrease in Borrower APR
 * When the Prosper Score is above 9 (best score/lowest risk) and the Loan Original Amount increases; there is an abnormal behaviour of the Borrower APR increasing
 
 
-* Changes I will employ in Explanatory Visualizations:
-> * Modifying plot title's and axes labels' font sizes
-> * Modifying size of plotted visualization to create more visually-appealing visualizations
-> * Adding X-axis limits to exclude outliers
-> * Adding ticks to visualizations
-> * Adding gridlines to enable easier reading of visualizations
+#### Changes I will employ in Explanatory Visualizations:
+* Modifying plot title's and axes labels' font sizes
+* Modifying size of plotted visualization to create more visually-appealing visualizations
+* Adding X-axis limits to exclude outliers
+* Adding ticks to visualizations
+* Adding gridlines to enable easier reading of visualizations
