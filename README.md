@@ -10,17 +10,17 @@
 * In this exploratory analysis, we will be seeking to find insights on the relationships between the various loan variables e.g. 
 > * Borrower's APR, Prosper Score, Income Range, Debt to Income Ratio, Employment Status, Stated Monthly Income, Loan Year, and Employment Duration
 
-The main features of interest (response variables) in the dataset include:
-> * Borrower's APR
-> * Prosper Score
-> * Debt to Income Ratio 
+#### The main features of interest (response variables) in the dataset include:
+* Borrower's APR
+* Prosper Score
+* Debt to Income Ratio 
 
-The variables that will support the investigation of the variables of interest are known as predictor features. The following predictor features will be used in the exploration:
-> * Income Range
-> * Employment Status
-> * Stated Monthly Income
-> * Loan Year
-> * Employment Duration 
+#### The variables that will support the investigation of the variables of interest are known as predictor features. The following predictor features will be used in the exploration:
+* Income Range
+* Employment Status
+* Stated Monthly Income
+* Loan Year
+* Employment Duration 
 
 
 
@@ -55,7 +55,7 @@ Loan Year
 * This can be attributed to the low interest rates imposed in that year; as compared to other years. Hence, the favourable interest rates spurred extensive borrowing
 * Reference: [U.S. regional banks see loan growth in 2013](https://www.reuters.com/article/us-pncfinancial-results-idUSBRE90G0LD20130117)
 
-The unusual distributions I noted include:
+#### The unusual distributions I noted include:
 * There is a small irrecognizable difference between distributions of loan takers who are home-owners and those who are not. 
 > This is contrary to the fact that home-owners are more likely to be given loans as compared to those who are not; as there is more security assured with the lending
 
