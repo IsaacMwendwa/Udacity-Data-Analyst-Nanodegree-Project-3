@@ -94,13 +94,13 @@ Borrower APR vs. Loan Term and Proper Score
 * There is an inverse relationship between Borrower APR; and Term and Prosper Score. Thus, Borrower APR decreases as the Loan Term and Prosper Score increase
 
 Loan Original Amount vs. Loan Term and Prosper Score
-* The Loan Original Amount; and Prosper Rating (numeric) and Term share a positive relationship. Hence, the Loan Original Amount increases as the Prosper Rating (numeric) increases, and also as the Loan Term increases 
+* The Loan Original Amount; and Prosper Score and Term share a positive relationship. Hence, the Loan Original Amount increases as the Prosper Score increases, and also as the Loan Term increases 
 
 Prosper Score vs. Borrower APR and Loan Original Amount
-* The plots show that the Loan Original Amount increase with an increase in the Prosper Rating (numeric) and a decrease in Borrower APR
+* The plots show that the Loan Original Amount increase with an increase in the Prosper Score and a decrease in Borrower APR
 * However, there is an interesting and surprising observation from the three features
-* When the Prosper Rating (numeric) is above 6 (top ratings) and the Loan Original Amount increases; there is an abnormal behaviour of the Borrower APR increasing
-* This can be explained in part by the propensity of people with better Prosper Ratings borrowing; which creates a high demand for the loans; and a corresponding increase in Borrower APR
+* When the Prosper Score is above 9 (best rating) and the Loan Original Amount increases; there is an abnormal behaviour of the Borrower APR increasing
+* This can be explained in part by the propensity of people with better Prosper Scores borrowing bigger loans; which creates a high demand for the loans; and a corresponding increase in Borrower APR
 * The anomalous observation can be attributed to the maximizing on loan profits by the lenders, going by the Law of Supply and Demand
 
 
