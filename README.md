@@ -22,6 +22,9 @@
 * Loan Year
 * Employment Duration 
 
+The dataset can be downloaded from here [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv)
+
+The documentation of the features is available [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0)
 
 
 ## Summary of Findings
