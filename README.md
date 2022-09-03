@@ -124,5 +124,7 @@ Selected insights for exploration include:
 
 * Changes in Design:
 > * Modifying title and axes titles font sizes
-> * Modifying size of plotted visualization to create better and concise visualizations
-> * Adding
+> * Modifying size of plotted visualization to create better and more visually-appealing visualizations
+> * Adding X-axis limits
+> * Adding ticks to visualizations
+> * Adding gridlines
