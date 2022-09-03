@@ -108,8 +108,12 @@ Prosper Score vs. Borrower APR and Loan Original Amount
 
 > Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
 
-1. Distribution of Debt-to-Income Ratio
+Selected insights for exploration include:
 
+1. Distribution of Debt-to-Income Ratio
+* The distribution is skewed right, implying that the majority of the Debt-to-Income ratios lay between 0 and 0.4
+* This implies that lenders pay keen attention to ensure a borrower can service the loan, by ensuring that their Debt-to-Income ratio is low
+ 
 2. Effect of Employment Status on Borrower APR
 
 3. Loan Original Amount vs. Income Range
@@ -117,3 +121,8 @@ Prosper Score vs. Borrower APR and Loan Original Amount
 4. Loan Original Amount vs. Loan Term and Prosper Score
 
 5. Prosper Score vs. Borrower APR and Loan Original Amount
+
+* Changes in Design:
+> * Modifying title and axes titles font sizes
+> * Modifying size of plotted visualization to create better and concise visualizations
+> * Adding
