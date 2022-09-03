@@ -109,7 +109,7 @@ Prosper Score vs. Borrower APR and Loan Original Amount
 
 ## Key Insights for Presentation
 
-#### Selected insights for exploration include:
+#### Selected insights for exploration in the presentation include:
 
 1. Distribution of Debt-to-Income Ratio
 * The distribution is skewed right, implying that the majority of the Debt-to-Income ratios lay between 0 and 0.4
